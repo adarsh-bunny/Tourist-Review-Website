@@ -4,19 +4,19 @@ yelp-camp,a web application project from the  course - The Web Developer Boot ca
 ## About
 A Node.js web application project .
 
-##Visit site here -deployed in heroku
+## Visit site here -deployed in heroku
 Checkout here [Yelp-camp](https://enigmatic-inlet-09081.herokuapp.com/).
 
 
- ##Getting Started
+ ## Getting Started
  This app contains API secrets and passwords that have been hidden deliberately,
  so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
  
  
- ##Install dependencies
+ ## Install dependencies
  Use `npm init` to get started 
  
-##Features
+## Features
 
 - Manage campground posts with basic functionalities:
   - Create, edit and delete posts and comments
