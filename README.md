@@ -1,5 +1,5 @@
 # yelpcamp-fullstackDevelopement
-yelp-camp,a web application project from the  course - The Web Developer Boot camp by Colt Steele  with the functionality which includes map ,authentication ,login/signup and many more features with security.
+yelp-camp,a web application project with the functionality which includes map ,authentication ,authorization,api call, login/signup and many more features with security.
 
 ## About
 A Node.js web application project .
